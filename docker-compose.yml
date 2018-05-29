@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  solbucksunitedbanking:
+    image: solbucksunitedbanking
+    build:
+      context: .
+      dockerfile: SOLBUCKSUnitedBanking\Dockerfile

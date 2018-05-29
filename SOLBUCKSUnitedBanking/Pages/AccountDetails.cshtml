@@ -1,0 +1,29 @@
+﻿@page
+@model AccountDetailsModel
+@{
+    ViewData["Title"] = "Account Details";
+}
+<h2>@ViewData["Title"]</h2>
+<div class="row">
+    <div class="col-md-12">
+        <section>
+            <h4>Hello @Model.FirstName @Model.LastName! Thank you for banking with SOLBUCKS United</h4>
+            <hr />
+            @for (int i = 0; i < Model.Accounts.Count; i++)
+            {
+                <div class="panel panel-default">
+                    <div class="panel-group">
+                        <div class="panel-heading">
+                            <h4>@Model.Accounts[i].AccountNumber</h4>
+                        </div>
+                        <div class="panel-body">
+                            <label class="col-sm-3 control-label">Outstanding Balance: </label>
+                            <label class="col-sm-9 control-label">@Model.Accounts[i].Amount SOLTECH Bucks</label>
+                        </div>
+                    </div>
+                </div>
+                <br /><br />
+            }
+        </section>
+    </div>
+</div>

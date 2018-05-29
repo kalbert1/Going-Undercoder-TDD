@@ -1,0 +1,12 @@
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.csprojResolveAssemblyReference.cache
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.csproj.CoreCompileInputs.cache
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.AssemblyInfoInputs.cache
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.AssemblyInfo.cs
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.dll
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\bin\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.deps.json
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\bin\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.runtimeconfig.json
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\bin\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.runtimeconfig.dev.json
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\bin\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.dll
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\bin\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.pdb
+C:\SOLBUCKSUnitedBanking\SOLBUCKSUnitedBanking\obj\Debug\netcoreapp2.0\SOLBUCKSUnitedBanking.pdb
